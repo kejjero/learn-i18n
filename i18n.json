@@ -1,0 +1,11 @@
+{
+  "locales": [
+    "ru-RU",
+    "en-US"
+  ],
+  "defaultLocale": "ru-RU",
+  "pages": {
+    "*": ["common"],
+    "about": ["about"]
+  }
+}
